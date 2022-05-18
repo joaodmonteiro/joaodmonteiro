@@ -1,8 +1,7 @@
 ### Hi there 👋
-### My name is Joao and I'm a Web Developer currently looking for a position
+### My name is Joao and I'm a Web Developer currently available to work!
 ### Take a look at some of my projects down below 👇 and contact me if you need work, or want to collaborate!
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaodmonteiro)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaodmonteiro&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **joaodmonteiro/joaodmonteiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
