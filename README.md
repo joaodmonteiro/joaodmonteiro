@@ -2,6 +2,9 @@
 My name is Joao and I'm a Web Developer currently available to work!
 Take a look at some of my projects down below 👇 and contact me if you need work, or want to collaborate!
 
+
+[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/joaodmonteiro.svg?style=social&label=Follow%20%40joaodmonteiro)](https://twitter.com/joaodmonteiro)
+
 ## Projects 
 - [Multitrack (Charity Website)](https://joaodmonteiro.github.io/multitrack/)
 - [Rider Rotation (Dashboard Web App)](https://joaodmonteiro.github.io/rider-rotation/)
