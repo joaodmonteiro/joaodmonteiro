@@ -1,6 +1,6 @@
 ### Hi there 👋
-### My name is Joao and I'm a Web Developer currently available to work!
-### Take a look at some of my projects down below 👇 and contact me if you need work, or want to collaborate!
+My name is Joao and I'm a Web Developer currently available to work!
+Take a look at some of my projects down below 👇 and contact me if you need work, or want to collaborate!
 
 ## Projects 
 - [Multitrack (Charity Website)](https://joaodmonteiro.github.io/multitrack/)
