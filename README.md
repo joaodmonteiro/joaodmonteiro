@@ -4,7 +4,7 @@ Take a look at some of my projects down below 👇 and contact me if you need wo
 
 ### Projects 
 [Multitrack(Charity Website)](https://joaodmonteiro.github.io/multitrack/)
-[Rider Rotation(Dashboard Web App)] (https://joaodmonteiro.github.io/rider-rotation/)
+[Rider Rotation(Dashboard Web App)](https://joaodmonteiro.github.io/rider-rotation/)
 
 ### Languages 🛠
 
