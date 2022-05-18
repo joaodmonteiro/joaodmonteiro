@@ -3,7 +3,8 @@ My name is Joao and I'm a Web Developer currently available to work!
 Take a look at some of my projects down below 👇 and contact me if you need work, or want to collaborate!
 
 ### Projects 
-[Multitrack](https://joaodmonteiro.github.io/multitrack/)
+[Multitrack(Charity Website)](https://joaodmonteiro.github.io/multitrack/)
+[Rider Rotation(Dashboard Web App)] (https://joaodmonteiro.github.io/rider-rotation/)
 
 ### Languages 🛠
 
