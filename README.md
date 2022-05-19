@@ -5,7 +5,7 @@ Take a look at some of my projects down below 👇 and contact me if you need wo
 
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/joaodmonteiro.svg?style=social&label=Follow%20%40joaodmonteiro)](https://twitter.com/joaodmonteiro)
 
-[![LinkedIn](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white))]([https://shields.io/](https://www.linkedin.com/in/joaodmonteiro/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaodmonteiro/))
 
 
 ## Projects 
