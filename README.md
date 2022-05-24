@@ -1,4 +1,4 @@
-### Hi I'm Joao
+### Hi, I'm Joao!
 Take a look at some of my projects down below 👇 and contact me if you need work, or want to collaborate!
 
 
