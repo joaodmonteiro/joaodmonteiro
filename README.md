@@ -1,4 +1,4 @@
-### Hi, I'm Joao!
+### Hi, I'm Joao! I'm a Web Developer, based in London.
 Take a look at some of my projects down below 👇 and contact me if you need work, or want to collaborate!
 
 
