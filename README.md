@@ -1,5 +1,5 @@
 ### Hi, I'm Joao! I'm a Web Developer, based in London.
-Take a look at some of my projects down below 👇 and contact me if you need work, or want to collaborate!
+Take a look at some of my projects down below and contact me if you need work, or want to collaborate!
 
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/joaodmonteiro) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaodmonteiro/)
