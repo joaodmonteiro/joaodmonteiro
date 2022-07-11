@@ -8,7 +8,7 @@ Take a look at some of my projects down below and contact me if you need work, o
 ## Projects 
 - [Multitrack (Charity Website)](https://joaodmonteiro.github.io/multitrack/)
 - [Rider Rotation (Dashboard Web App)](https://joaodmonteiro.github.io/rider-rotation/)
-- {font. (Variable font previewer)](https://joaodmonteiro.github.io/font-website/)
+- [font. (Variable font previewer)](https://joaodmonteiro.github.io/font-website/)
 
 ## Languages 🛠
 
